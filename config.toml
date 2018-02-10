@@ -7,15 +7,15 @@ disqusShortname = ""                                                            
 googleAnalytics = ""                                                            # Enable Google Analytics by entering your tracking id
 
 [Author]
-    name = "John Doe"
-    bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    name = M. Daniels
+    bio = Experienced Risk Manager and quant. Track record of helping clients ientify root cause issues and invest appropriatly to address regulatory and business priorities.
     avatar = "img/avatar.png"
 
 
 [Params]
     gs_id           = "ab34c8"
     subtitle        = "Photobox Group Security - Candidate Site"                # Subtitle of your site
-    description     = " John Doe's Personal blog about everything"              # Description of your site
+    description     = Limited candidtae responce to obtain an interview             # Description of your site
     opengraph       = true
     readmore        = true                                                      # Show "Read more" button in list if true
     leftsidebar     = false                                                     # Move sidebar to the left side if true
